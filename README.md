@@ -1,4 +1,4 @@
-# Connected App
+# Connected Apps
 
 ## How to build the app
 ```
