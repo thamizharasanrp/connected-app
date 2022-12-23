@@ -1,6 +1,6 @@
 # Connected App
 
-## How to build the appss
+## How to build the app
 ```
 docker build -t <DOCKERHUB_USERNAME>/app:1.0 .
 ```
